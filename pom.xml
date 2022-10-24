@@ -207,7 +207,7 @@
   <name>whatweeted</name>
 
   <properties>
-    <junit.version>5.9.0</junit.version>
+    <junit.version>5.9.1</junit.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
