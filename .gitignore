@@ -38,3 +38,4 @@ build/
 .DS_Store
 /logs/
 /.idea/
+/src/main/java/mutsumutsutalk/whatweeted/lib/twitter/TwitterAuthentication.java
