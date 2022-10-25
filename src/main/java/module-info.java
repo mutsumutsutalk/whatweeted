@@ -9,6 +9,8 @@ module mutsumutsutalk.whatweeted {
   // normal program dependencies
   requires com.google.common;
   requires org.slf4j;
+  requires twitter.api.java.sdk;
+  requires scribejava.core;
 
   // annotations
   requires jsr305;
