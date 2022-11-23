@@ -178,7 +178,7 @@
     <dependency>
       <artifactId>logback-core</artifactId>
       <groupId>ch.qos.logback</groupId>
-      <version>1.4.4</version>
+      <version>1.4.5</version>
     </dependency>
     <dependency>
       <artifactId>jackson-databind</artifactId>
