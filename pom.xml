@@ -134,7 +134,7 @@
         </exclusion>
       </exclusions>
       <groupId>eu.hansolo</groupId>
-      <version>17.1.15</version>
+      <version>17.1.17</version>
     </dependency>
     <dependency>
       <artifactId>junit-jupiter-api</artifactId>
