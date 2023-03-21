@@ -91,7 +91,7 @@
     <dependency>
       <artifactId>javafx-web</artifactId>
       <groupId>org.openjfx</groupId>
-      <version>19</version>
+      <version>20</version>
     </dependency>
     <dependency>
       <artifactId>controlsfx</artifactId>
